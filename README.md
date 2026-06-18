@@ -1,5 +1,13 @@
 # 📄 AI-Powered Resume Screening & Candidate Ranking System
 
+## Live Demo
+
+https://ai-powered-resume-screening-candidate-ranking-system-pk6ocsffb.streamlit.app/
+
+## GitHub Repository
+
+<your-github-repo-link>
+
 ## 🚀 Overview
 
 The AI-Powered Resume Screening & Candidate Ranking System is an intelligent Applicant Tracking System (ATS) that helps recruiters evaluate resumes automatically by comparing them with a job description.
